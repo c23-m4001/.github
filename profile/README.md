@@ -62,6 +62,8 @@ Dalam hal ini, kami berencana membuat aplikasi berbasis website yang mencakup pe
 <a href="https://dicoding.com">
     <img width="200" src="./assets/dicoding.png" />
 </a>
+<div style="width: 100px">
+</div>
 <a href="https://kampusmerdeka.kemdikbud.go.id">
     <img width="200" src="./assets/kampus_merdeka.png" />
 </a>
