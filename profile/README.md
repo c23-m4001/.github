@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-    <img width="250" style="border-radius:margin: 0 auto;" src="./assets/moneta-full.svg">
+    <img width="250" style="border-radius:margin: 0 auto;" src="../assets/moneta-full.svg">
 </p>
 
 # Capstone Project Dicoding X Kampus Merdeka Batch 4
@@ -26,30 +26,30 @@ Dalam hal ini, kami berencana membuat aplikasi berbasis website yang mencakup pe
 ## Project Management
 | Jira by Atlassian |
 | --- |
-| <a href="https://jira.atlassian.com"><img width="200" src="./assets/jira.png" /></a> |
+| <a href="https://jira.atlassian.com"><img width="200" src="./profile/assets/jira.png" /></a> |
 
 ## UI / UX
 | Figma |
 | --- |
-| <a href="https://figma.com"><img width="100" src="./assets/figma.svg" /></a> |
+| <a href="https://figma.com"><img width="100" src="../assets/figma.svg" /></a> |
 
 
 ## Deployment
 | Nginx | Docker | Redoc | OpenApi | Digital Ocean Droplet | Github |
 | --- | --- | --- | --- | --- | --- |
-| <a href="https://nginx.com"><img width="100" src="./assets/nginx.png" /></a> | <a href="https://docker.com"><img width="100" src="./assets/docker.png" /></a> | <a href="https://redocly.com"><img width="100" src="./assets/redoc.png" /></a> | <a href="https://www.openapis.org/"><img width="100" src="./assets/openapi.png" /></a> | <a href="https://digitalocean.com"><img width="100" src="./assets/digital_ocean.png" /></a> | <a href="https://github.com"><img width="100" src="./assets/github.png" /></a> |
+| <a href="https://nginx.com"><img width="100" src="../assets/nginx.png" /></a> | <a href="https://docker.com"><img width="100" src="../assets/docker.png" /></a> | <a href="https://redocly.com"><img width="100" src="../assets/redoc.png" /></a> | <a href="https://www.openapis.org/"><img width="100" src="../assets/openapi.png" /></a> | <a href="https://digitalocean.com"><img width="100" src="../assets/digital_ocean.png" /></a> | <a href="https://github.com"><img width="100" src="../assets/github.png" /></a> |
 
 
 ## Frontend
 | ReactJS | TailwindCSS | React Query | MomentJs | React Router DOM | EsLint | Github |
 | --- | --- | --- | --- | --- | --- | --- |  
-| <a href="https://react.dev"><img width="100" src="./assets/react.png" /></a> | <a href="https://tailwindcss.com"><img width="100" src="./assets/tailwindcss.png" /></a> | <a href="https://tanstack.com/query/latest"><img width="100" src="./assets/react_query.png" /></a> | <a href="https://momentjs.com"><img width="100" src="./assets/moment.png" /></a> | <a href="https://reactrouter.com"><img width="100" src="./assets/react_router_dom.png" /></a> | <a href="https://eslint.org/"><img width="100" src="./assets/eslint.png" /></a> | <a href="https://github.com"><img width="100" src="./assets/github.png" /></a> |
+| <a href="https://react.dev"><img width="100" src="../assets/react.png" /></a> | <a href="https://tailwindcss.com"><img width="100" src="../assets/tailwindcss.png" /></a> | <a href="https://tanstack.com/query/latest"><img width="100" src="../assets/react_query.png" /></a> | <a href="https://momentjs.com"><img width="100" src="../assets/moment.png" /></a> | <a href="https://reactrouter.com"><img width="100" src="../assets/react_router_dom.png" /></a> | <a href="https://eslint.org/"><img width="100" src="../assets/eslint.png" /></a> | <a href="https://github.com"><img width="100" src="../assets/github.png" /></a> |
 
 
 ## Backend
 | Golang | PostgreSQL | JWT | Gin | Github |
 | --- | --- | --- | --- | --- |
-| <a href="https://go.dev"><img width="100" src="./assets/go.png" /></a> | <a href="https://www.postgresql.org"><img width="100" src="./assets/postgresql.png" /></a> | <a href="https://jwt.io"><img width="100" src="./assets/jwt.svg" /></a> | <a href="https://gin-gonic.com"><img width="100" src="./assets/gin.png" /></a> | <a href="https://github.com"><img width="100" src="./assets/github.png" /></a> |
+| <a href="https://go.dev"><img width="100" src="../assets/go.png" /></a> | <a href="https://www.postgresql.org"><img width="100" src="../assets/postgresql.png" /></a> | <a href="https://jwt.io"><img width="100" src="../assets/jwt.svg" /></a> | <a href="https://gin-gonic.com"><img width="100" src="../assets/gin.png" /></a> | <a href="https://github.com"><img width="100" src="../assets/github.png" /></a> |
 
 
 ## Contributors
@@ -60,9 +60,9 @@ Dalam hal ini, kami berencana membuat aplikasi berbasis website yang mencakup pe
 # Special Thanks
 <div style="display: flex; justify-content: space-around; align-items: center">
 <a href="https://dicoding.com">
-    <img width="200" src="./assets/dicoding.png" />
+    <img width="200" src="../assets/dicoding.png" />
 </a>
 <a href="https://kampusmerdeka.kemdikbud.go.id">
-    <img width="200" src="./assets/kampus_merdeka.png" />
+    <img width="200" src="../assets/kampus_merdeka.png" />
 </a>
 </div>
