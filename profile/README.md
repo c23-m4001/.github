@@ -58,7 +58,7 @@ Dalam hal ini, kami berencana membuat aplikasi berbasis website yang mencakup pe
 
 
 # Special Thanks
-<div style="display: flex; justify-content: space-around; align-items: center">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 <a href="https://dicoding.com">
     <img width="200" src="./assets/dicoding.png" />
 </a>
